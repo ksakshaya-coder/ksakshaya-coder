@@ -1,0 +1,10 @@
+- ✨ I am a software Developer
+- 💬 Ask me about HTML5, CSS, Javascript,Python,Django,PostgrSql
+- 📫 How to reach me :https://www.linkedin.com/in/akshaya-ks-19b025231
+- 🎓 Education: MCA- 24-Graduate
+- ⚡ Experience:
+   - Completed an internship at Nitroware Technologies as Trainee Software Engineer Role
+   - Developed backend systems to connect farmers with agricultural experts.
+   - Refactored to Django microservices, improving code quality and productivity by 30%.
+   - Designed and integrated user-friendly features for easy navigation and accessibility.
+- 📌Actively seeking new opportunities in the web development field to continue my growth and learning journey.
