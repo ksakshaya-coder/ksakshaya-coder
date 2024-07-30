@@ -3,23 +3,22 @@
 ![](https://komarev.com/ghpvc/?username=ksakshaya-coder&style=flat-square)
 - ✨ I am a Full Stack Web Developer
 - 🌱 I’m currently learning next.js, DSA ...
-- 💬 Ask me about JavaScript, TypeScript, React, Node JS, TypeScript, serverless lambda, and more ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ksakshaya-coder/), [Twitter](https://twitter.com/ksakshaya-coder)
-- 🎓 Education: MCA graduate
+- 💬 Ask me about HTML5, CSS, Javascript,Python,Django,PostgrSql.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshaya-ks-19b025231/)
+- 🎓 Education: MCA 24-graduate
 - ⚡ Experience: 
   - 2+ years of experience in web development
-  - I have developed multiple real-world projects and have worked on two internships. 
-  - My first internship (4 months) was a full stack developer role (React, Material UI, TypeScript, Express, MySQL)
-  - My second internship (6 months) was a backend developer role (JavaScript, TypeScript, Serverless, AWS Lambda, DynamoDB)
+  - I have developed multiple real-world projects and have worked on internship. 
+  - My  internship (4 months) was a Trainee Software Engineer (Html5,CSS,Javascript,Python,Sqlite,Django )
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,express,materialui,nextjs,dynamodb,aws,bootstrap,firebase,git,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,bootstrap,postgresql,git,vscode)
 <!-- https://github.com/tandpfun/skill-icons -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksakshaya-coder&theme=dark) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksakshaya-coder&theme=default)
 
-<a href="https://app.daily.dev/ksakshaya-coder"><img src="devcard.svg" width="280" alt="Akshaya's Dev Card"/></a>
+
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
