@@ -1,15 +1,16 @@
-<h1 align="center">\
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksakshaya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ksakshaya-coder" /> </p>
-- ✨ I'm Full Stack Web Developer</h1>
-- 💬 Ask me about **HTML5, CSS, Javascript,Python,Django,PostgrSql**
--  🎓 Education: MCA'24-graduate
--  ⚡ Experience: Worked on Backend Systems for Expert-Farmer Interactions in Agriculture.
-• Enhanced farmer support by 30% through Django and PostgreSQL integration, improving
-backend performance and overall system efficiency
-• Built and integrated real-time data APIsto deliver accurate and up-to-date information for
-farmers
-- 📫 How to reach me **akshaya.ks1604@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksakshaya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ksakshaya-coder" /> </p>
+- <h1>✨ I am a Full Stack Web Developer</h1>
+- 💬 Ask me about **HTML5, CSS, Javascript,Python,Django,PostgrSql**
+
+- 📫 How to reach me **akshaya.ks1604@gmail.com**
+- 🎓 Education: MCA 24-graduate
+- ⚡ Experience:
+  - Worked on Backend Systems for Expert-Farmer Interactions in Agriculture.
+  - Enhanced farmer support by 30% through Django and PostgreSQL integration, improving
+backend performance and overall system efficiency
+  - Built and integrated real-time data APIsto deliver accurate and up-to-date information for
+farmers
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaya-ks-19b025231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaya-ks-19b025231" height="30" width="40" /></a>
