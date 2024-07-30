@@ -19,8 +19,7 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-![](contributions.png)
-<!-- https://github-contributions.vercel.app/ -->
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksakshaya-coder&show_icons=true&locale=en" alt="ksakshaya-coder" /></p>
 
