@@ -1,20 +1,12 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksakshaya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ksakshaya-coder" /> </p>
-- <h1>✨ I am a Software Developer</h1>
+
 - 💬 Ask me about **HTML5, CSS, Javascript,Python,Django,PostgrSql**
 
 - 📫 How to reach me **akshaya.ks1604@gmail.com**
-- 🎓 Education: MCA 24-graduate
-- ⚡ Experience:
-  - Worked on Backend Systems for Expert-Farmer Interactions in Agriculture.
-  - Enhanced farmer support by 30% through Django and PostgreSQL integration, improving
-backend performance and overall system efficiency
-  - Built and integrated real-time data APIsto deliver accurate and up-to-date information for
-farmers
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaya-ks-19b025231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaya-ks-19b025231" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/22pca102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/22pca102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +17,3 @@ farmers
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksakshaya-coder&show_icons=true&locale=en" alt="ksakshaya-coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksakshaya-coder&" alt="ksakshaya-coder" /></p>
-tunities in the web development field to continue my growth and learning journey.
