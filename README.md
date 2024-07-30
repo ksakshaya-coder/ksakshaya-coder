@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Udaya%20M&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20a%20Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Akshaya KS%20M&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20a%20Software%20Developer&descAlignY=51&descAlign=62)
 <!-- https://github.com/kyechan99/capsule-render -->
 ![](https://komarev.com/ghpvc/?username=ksakshaya-coder28&style=flat-square)
 - ✨ I am a Full Stack Web Developer
@@ -15,9 +15,9 @@
 ![My Skills](https://skillicons.dev/icons?i=,python,django,postgresql,js,html,css,bootstrap,vscode)
 <!-- https://github.com/tandpfun/skill-icons -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaya28&theme=dark) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksakshaya-coder28&theme=dark) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaya28&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksakshaya-coder28&theme=default)
 
 
 
