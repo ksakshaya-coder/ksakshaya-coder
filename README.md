@@ -2,7 +2,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 ![](https://komarev.com/ghpvc/?username=ksakshaya-coder&style=flat-square)
 - ✨ I am a Full Stack Web Developer
-
 - 💬 Ask me about HTML5, CSS, Javascript,Python,Django,PostgrSql.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshaya-ks-19b025231/)
 - 🎓 Education: MCA 24-graduate
@@ -10,7 +9,6 @@
   - 2+ years of experience in web development
   - I have developed multiple real-world projects and have worked on internship. 
   - My  internship (4 months) was a Trainee Software Engineer (Html5,CSS,Javascript,Python,Sqlite,Django )
-
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,bootstrap,postgresql,git,vscode)
 <!-- https://github.com/tandpfun/skill-icons -->
 
