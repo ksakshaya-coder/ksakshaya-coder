@@ -1,6 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksakshaya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ksakshaya-coder" /> </p>
-- <h1>✨ I am a Full Stack Web Developer</h1>
+- <h1>✨ I am a Software Developer</h1>
 - 💬 Ask me about **HTML5, CSS, Javascript,Python,Django,PostgrSql**
 
 - 📫 How to reach me **akshaya.ks1604@gmail.com**
