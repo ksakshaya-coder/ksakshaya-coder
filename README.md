@@ -27,5 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksakshaya-coder&show_icons=true&locale=en" alt="ksakshaya-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksakshaya-coder&" alt="ksakshaya-coder" /></p>
-tunities in the web development field to continue my growth and learning journey.
