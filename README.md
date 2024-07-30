@@ -2,7 +2,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 ![](https://komarev.com/ghpvc/?username=ksakshaya-coder&style=flat-square)
 - ✨ I am a Full Stack Web Developer
-- 🌱 I’m currently learning next.js, DSA ...
+
 - 💬 Ask me about HTML5, CSS, Javascript,Python,Django,PostgrSql.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshaya-ks-19b025231/)
 - 🎓 Education: MCA 24-graduate
@@ -24,3 +24,8 @@
 
 ![](contributions.png)
 <!-- https://github-contributions.vercel.app/ -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksakshaya-coder&show_icons=true&locale=en" alt="ksakshaya-coder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksakshaya-coder&" alt="ksakshaya-coder" /></p>
+tunities in the web development field to continue my growth and learning journey.
