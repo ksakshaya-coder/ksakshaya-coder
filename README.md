@@ -13,7 +13,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksakshaya-coder&theme=dark) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksakshaya-coder&theme=default)
+
 
 
 
