@@ -2,7 +2,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 ![](https://komarev.com/ghpvc/?username=ksakshaya-coder&style=flat-square)
 - ✨ I am a Full Stack Web Developer
-- 💬 Ask me about HTML5, CSS, Javascript,Python,Django,PostgrSql.
+- 💬 Ask me about HTML5, CSS, Javascript, Python,Django,PostgrSql.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshaya-ks-19b025231/)
 - 🎓 Education: MCA 24-graduate
 - ⚡ Experience: 
