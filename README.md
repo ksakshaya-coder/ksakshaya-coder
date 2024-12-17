@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Akshaya%20KS&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20a%20Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Akshaya%20KS&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20a%20Software%20Engineer&descAlignY=51&descAlign=62)
 <!-- https://github.com/kyechan99/capsule-render -->
 ![](https://komarev.com/ghpvc/?username=ksakshaya-coder&style=flat-square)
-- ✨ I am a Full Stack Web Developer
+- ✨ I am a Software Engineer
 - 💬 Ask me about HTML5, CSS, Javascript, Python,Django,PostgrSql.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshaya-ks-19b025231/)
 - 🎓 Education: MCA 24-graduate
